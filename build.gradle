@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'fr.univamu'
+version '0.1-TEMPLATE'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.13'
+}
